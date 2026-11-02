@@ -18,7 +18,7 @@ Cette version garde toutes les entrées et leurs références exactes, mais pas 
 - extraits Chronos et Rumaker (data_chronos.js) : 1166
 - phrases des livres (renvois) : 32
 - biographies du BMC Yearbook : 1359
-- extraits de vérification (verification.js) : 29835
+- extraits de vérification (verification.js) : 32812
 
 ## Fichiers
 
@@ -26,19 +26,19 @@ Publié le 2026-11-02 depuis le dépôt de travail RBMIRC/bmc-chronology (`bmc-p
 
 | fichier | taille |
 |---|---|
-| `data.js` | 5.7 Mo |
+| `data.js` | 7.0 Mo |
 | `data_chronos.js` | 1.3 Mo |
-| `data_en.js` | 5.4 Mo |
+| `data_en.js` | 5.5 Mo |
 | `data_personnes.js` | 1.3 Mo |
 | `data_scenario.js` | 5.4 Mo |
 | `data_syntheses.js` | 8.7 Mo |
-| `verification.js` | 1.0 Mo |
-| `spec/*.js` (22 années, chargées à la demande) | 18.9 Mo |
+| `verification.js` | 1.1 Mo |
+| `spec/*.js` (22 années, chargées à la demande) | 20.8 Mo |
 
-Total : 47.7 Mo (servis compressés par GitHub Pages).
+Total : 51.1 Mo (servis compressés par GitHub Pages).
 
 Bibliothèque d'affichage : Event Calendar (licence MIT), dans `lib/`.
 
 ## English
 
-English version: https://rbmirc.github.io/week/en/ (or `?lang=en`). Sources quoted in English are never translated. Our own French texts are translated by hand into American English and checked line by line (`scripts/traduction_en.py`, guide in `semainier/i18n/GUIDE_TRADUCTION.md`): interface, collections, scoring rules, and every title, summary, and note from Duberman, the museum documents, the reconstruction, the supplements, the student records, and the other books and studies (14,045 strings, all reviewed). Machine translation is kept only as a fallback for a text added later, marked ≈ with the original French in the record; long syntheses remain in French.
+English version: https://rbmirc.github.io/week/en/ (or `?lang=en`). Sources quoted in English are never translated. Our own French texts are translated by hand into American English and checked line by line (`scripts/traduction_en.py`, guide in `semainier/i18n/GUIDE_TRADUCTION.md`): interface, collections, scoring rules, and every title, summary, and note from Duberman, the museum documents, the reconstruction, the supplements, the student records, and the other books and studies (14,082 strings, all reviewed). Machine translation is kept only as a fallback for a text added later, marked ≈ with the original French in the record; long syntheses remain in French.
