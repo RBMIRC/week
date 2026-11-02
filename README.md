@@ -28,17 +28,17 @@ Publié le 2026-11-02 depuis le dépôt de travail RBMIRC/bmc-chronology (`bmc-p
 |---|---|
 | `data.js` | 5.7 Mo |
 | `data_chronos.js` | 1.3 Mo |
-| `data_en.js` | 1.5 Mo |
+| `data_en.js` | 5.4 Mo |
 | `data_personnes.js` | 1.3 Mo |
 | `data_scenario.js` | 5.4 Mo |
 | `data_syntheses.js` | 8.7 Mo |
 | `verification.js` | 1.0 Mo |
 | `spec/*.js` (22 années, chargées à la demande) | 18.9 Mo |
 
-Total : 43.8 Mo (servis compressés par GitHub Pages).
+Total : 47.7 Mo (servis compressés par GitHub Pages).
 
 Bibliothèque d'affichage : Event Calendar (licence MIT), dans `lib/`.
 
 ## English
 
-English version: https://rbmirc.github.io/week/en/ (or `?lang=en`). Sources quoted in English are never translated. Our own French texts are translated by hand into American English and checked line by line (`scripts/traduction_en.py`, guide in `semainier/i18n/GUIDE_TRADUCTION.md`): interface, collections, scoring rules, and every entry title from Duberman, the museum documents, the reconstruction, and the supplements. What is not yet reviewed (some notes, summaries of other books) is machine-translated and marked ≈, with the original French in each record; long syntheses remain in French.
+English version: https://rbmirc.github.io/week/en/ (or `?lang=en`). Sources quoted in English are never translated. Our own French texts are translated by hand into American English and checked line by line (`scripts/traduction_en.py`, guide in `semainier/i18n/GUIDE_TRADUCTION.md`): interface, collections, scoring rules, and every title, summary, and note from Duberman, the museum documents, the reconstruction, the supplements, the student records, and the other books and studies (14,045 strings, all reviewed). Machine translation is kept only as a fallback for a text added later, marked ≈ with the original French in the record; long syntheses remain in French.
